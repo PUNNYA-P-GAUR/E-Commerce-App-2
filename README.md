@@ -9,9 +9,3 @@ Add products to the cart
 Manage the cart by adding, removing, and updating quantities
 User authentication and registration
 User profile management
-Screenshots
-Product Listing
-Product Details
-Cart
-User Authentication
-User Profile
